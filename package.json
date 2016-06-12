@@ -1,0 +1,14 @@
+{
+  "name": "usb-invite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mactkg <mactkg@gmail.com> (http://makerbox.net/)",
+  "license": "ISC",
+  "dependencies": {
+    "slack-node": "^0.2.0"
+  }
+}
