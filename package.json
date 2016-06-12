@@ -9,6 +9,7 @@
   "author": "mactkg <mactkg@gmail.com> (http://makerbox.net/)",
   "license": "ISC",
   "dependencies": {
+    "cron": "^1.1.0",
     "slack-node": "^0.2.0"
   }
 }
